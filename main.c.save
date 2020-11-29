@@ -1,0 +1,20 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+#define TEST 1
+
+
+int main(int argc, char** argv){
+	if (TEST) {
+	//run wtests
+	//contained in seperate file
+
+	}
+	else{
+
+
+
+	}
+
+
+}  
