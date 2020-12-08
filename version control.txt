@@ -1,0 +1,5 @@
+I used version control after I was done working on the project for the day, 
+committing with a note regarding what I had completed and what was left
+to complete.
+I also used gitignore to exclude certain kinds of files
+This was uploaded to github so I could submit the files through windows.
